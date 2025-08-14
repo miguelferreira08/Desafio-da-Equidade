@@ -83,4 +83,16 @@ p{
       .principal {
         width: 90vw;
       }
+
+        .mural img,
+  .segundomural img {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+
+  .mural,
+  .segundomural {
+    flex-direction: column;
+    align-items: center;
+  }
     }
